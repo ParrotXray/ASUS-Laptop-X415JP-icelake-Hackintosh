@@ -1,4 +1,4 @@
-# Asus-laptop-X415jp-Hackintosh
+# Asus-laptop-X415JP-Hackintosh
 
 ## 🖥️Device
 | Model | Asus Laptop X415JP |
@@ -24,7 +24,7 @@ Boot > Fast Boot：Disable
 
 Security > Secure Boot > Secure Boot Control：Disable
 
-CFG Lock：Disable,You need to use ControlMsrE2.efi
+- CFG Lock：Disable,You need to use ControlMsrE2.efi
 
                 <key>Tools</key>
                 <array>
@@ -61,6 +61,6 @@ CFG Lock：Disable,You need to use ControlMsrE2.efi
 - [x] Microphone
 - [x] Bluetooth
 ### No Works：
-- [o] HDMI and HDMI Audio
+- [ ] HDMI and HDMI Audio
 ### Unkown：
 - [ ] Apple Services
