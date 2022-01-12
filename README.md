@@ -53,3 +53,20 @@ CFG Lock：Disable,You need to use ControlMsrE2.efi
                         </dict>
                 </array>
 ## 💡Device stetus
+# Works：
+- [x] Graphics
+- [x] USB
+- [x] Webcam
+- [x] Brightness controls
+- [x] Battery percentage
+- [x] Sleep
+- [x] TouchPad
+- [x] WiFi
+- [x] Speakers
+- [x] Microphone
+- [x] Apple Services (iCloud, Apple Music, Apple TV, others..)
+- [x] Bluetooth
+# No Works
+- [ ] HDMI and HDMI Audio
+# Unkown
+- [ ] Apple Services
