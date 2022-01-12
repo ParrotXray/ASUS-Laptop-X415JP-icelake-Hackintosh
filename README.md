@@ -16,7 +16,7 @@ OS：MacOS Big Sur
 SMBIOS：MacBookPro16,2
 
 ## 🛠️Setting BIOS
-Advanced > AES-NI：Disable
+Advanced > Intel AES-NI：Disable
 
 Advanced > SATA Configuration > SATA Mode Selection：AHCI
 
@@ -61,6 +61,6 @@ CFG Lock：Disable,You need to use ControlMsrE2.efi
 - [x] Microphone
 - [x] Bluetooth
 ### No Works：
-- [ ] HDMI and HDMI Audio
+- [o] HDMI and HDMI Audio
 ### Unkown：
 - [ ] Apple Services
