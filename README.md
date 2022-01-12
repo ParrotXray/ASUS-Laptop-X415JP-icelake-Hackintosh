@@ -7,4 +7,10 @@ CPU：i5 1035G1
 
 GPU：Intel UHD Garphics
 
-Me
+RAM:16GB
+
+Audio:Realtek ALC256
+
+WIFI：：DW1820A
+
+BIOS Version：
