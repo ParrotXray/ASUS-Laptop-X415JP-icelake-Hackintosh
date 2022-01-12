@@ -2,11 +2,12 @@
 
 ## 🖥️Device
 | Model | Asus Laptop X415JP |
+|------------|-------------------------------|
 | CPU | i5 1035G1 |
 | GPU | Intel UHD Garphics |
 | RAM | 16GB |
 | Audio | Realtek ALC256 |
-| WIFI | DW1820A |
+| WIFI／Bluetooth | DW1820A |
 | BIOS Version | 303 |
 
 ## 📀System
@@ -47,7 +48,7 @@ CFG Lock：Disable,You need to use ControlMsrE2.efi
                         </dict>
                 </array>
 ## 💡Device stetus
-# Works：
+### Works：
 - [x] Graphics
 - [x] USB
 - [x] Webcam
@@ -59,7 +60,7 @@ CFG Lock：Disable,You need to use ControlMsrE2.efi
 - [x] Speakers
 - [x] Microphone
 - [x] Bluetooth
-# No Works
+### No Works：
 - [ ] HDMI and HDMI Audio
-# Unkown
+### Unkown：
 - [ ] Apple Services
