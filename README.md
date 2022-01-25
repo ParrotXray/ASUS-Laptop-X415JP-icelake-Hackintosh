@@ -15,6 +15,8 @@ OS：MacOS Big Sur
 
 SMBIOS：MacBookPro16,2
 
+![alt text](Hackintosh-X415JP.jpg)
+
 ## 🛠️Setting BIOS
 Advanced > Intel AES-NI：Disable
 
