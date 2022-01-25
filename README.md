@@ -24,7 +24,7 @@ Boot > Fast Boot：Disable
 
 Security > Secure Boot > Secure Boot Control：Disable
 
-- CFG Lock：Disable,You need to use ControlMsrE2.efi
+- CFG Lock：Disable,You need to use ControlMsrE2.efi or CFGLock.efi
 
                 <key>Tools</key>
                 <array>
