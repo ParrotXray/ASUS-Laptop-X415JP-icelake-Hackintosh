@@ -7,7 +7,7 @@
 | GPU | Intel UHD Garphics |
 | RAM | 16GB |
 | Audio | Realtek ALC256 |
-| WIFI／Bluetooth | DW1820A |
+| WIFI／Bluetooth | ~~RTL8821CE~~ --> DW1820A |
 | BIOS Version | 303 |
 
 ## 📀System
