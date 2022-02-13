@@ -11,7 +11,7 @@
 | BIOS Version | 303 |
 
 ## 📀System
-OS：MacOS Big Sur
+<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/09/59/3d/09593d0e-188a-77eb-4c38-ca40bedd5cff/ProductPageIcon.png/460x0w.webp" height="32px"/> Big Sur
 
 SMBIOS：MacBookPro16,2
 
