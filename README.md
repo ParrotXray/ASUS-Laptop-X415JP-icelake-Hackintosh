@@ -1,5 +1,5 @@
 # Asus-laptop-X415JP-Hackintosh
-
+Cancel changes
 ## 🖥️Device
 | Model | Asus Laptop X415JP |
 |------------|-------------------------------|
@@ -51,7 +51,7 @@ Security > Secure Boot > Secure Boot Control：Disable
                                 <false/>
                         </dict>
                 </array>
-## 💡Device stetus
+## 💡Device status
 ### Works：
 - [x] Graphics
 - [x] USB
