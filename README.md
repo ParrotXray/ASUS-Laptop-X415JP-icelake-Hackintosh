@@ -1,5 +1,5 @@
 # Asus-laptop-X415JP-Hackintosh
-Cancel changes
+
 ## 🖥️Device
 | Model | Asus Laptop X415JP |
 |------------|-------------------------------|
@@ -13,9 +13,9 @@ Cancel changes
 ## 📀System
 <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/09/59/3d/09593d0e-188a-77eb-4c38-ca40bedd5cff/ProductPageIcon.png/460x0w.webp" height="32px"/> Big Sur
 
-SMBIOS：MacBookPro16,2
+<img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>SMBIOS：MacBookPro16,2
 
-OC：0.7.7
+<img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>：0.7.7
 
 ![alt text](Hackintosh-X415JP.jpg)
 
