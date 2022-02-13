@@ -15,7 +15,7 @@
 
 <img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>SMBIOS：MacBookPro16,2
 
-<img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>：0.7.7
+<img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>OC：0.7.7
 
 ![alt text](Hackintosh-X415JP.jpg)
 
