@@ -67,3 +67,5 @@ Security > Secure Boot > Secure Boot Control：Disable
 - [ ] HDMI and HDMI Audio
 ### Unkown：
 - [ ] Apple Services
+## Noteice
+- AppleALC not working from Windows reboot
