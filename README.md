@@ -16,7 +16,7 @@
 |------------|
 | <a href="https://support.apple.com/zh-tw/HT211896"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/09/59/3d/09593d0e-188a-77eb-4c38-ca40bedd5cff/ProductPageIcon.png/460x0w.webp" height="32px"/> Big Sur 11.6.1 |
 | <a href="https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.7"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.7.7 |
-| <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>SMBIOS：MacBookPro16,2 | 
+| <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>MacBookPro16,2 | 
 
 ## 🛠️Setting BIOS
 Advanced > Intel AES-NI：Disable
