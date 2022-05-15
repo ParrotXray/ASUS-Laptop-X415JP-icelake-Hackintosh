@@ -1,4 +1,4 @@
-# Asus-laptop-X415JP-Hackintosh
+# ASUS-laptop-X415JP-Hackintosh
 
 ## 🖥️Device
 | Model | Asus Laptop X415JP |
