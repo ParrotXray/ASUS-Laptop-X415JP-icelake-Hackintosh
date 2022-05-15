@@ -19,15 +19,15 @@
 | <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>MacBookPro16,2 | 
 
 ## 🛠️Setting BIOS
-Advanced > Intel AES-NI：Disable
+Advanced > Intel AES-NI：`Disable`
 
-Advanced > SATA Configuration > SATA Mode Selection：AHCI
+Advanced > SATA Configuration > SATA Mode Selection：`AHCI`
 
-Boot > Fast Boot：Disable
+Boot > Fast Boot：`Disable`
 
-Security > Secure Boot > Secure Boot Control：Disable
+Security > Secure Boot > Secure Boot Control：`Disable`
 
-- CFG Lock：Disable,You need to use ControlMsrE2.efi or CFGLock.efi
+- CFG Lock：`Disable,You need to use ControlMsrE2.efi or CFGLock.efi`
 
                 <key>Tools</key>
                 <array>
@@ -50,6 +50,13 @@ Security > Secure Boot > Secure Boot Control：Disable
                                 <false/>
                         </dict>
                 </array>
+  
+- After unlocking CFG Lock, the following entries in config can be turned off：
+  
+  `Kernel > Quirks > AppleCpuPmCfgLock：false`
+  
+  `Kernel > Quirks > AppleXcpmCfgLock：false`
+  
 ## 💡Device status
 ### Works：
 - [x] Graphics
