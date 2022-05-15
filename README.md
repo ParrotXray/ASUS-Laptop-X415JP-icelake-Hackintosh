@@ -70,6 +70,8 @@ Security > Secure Boot > Secure Boot Control：`Disable`
 - [x] Speakers
 - [x] Microphone
 - [x] Bluetooth
+- [x] AirDrop
+
 ### No Works：
 - [ ] HDMI and HDMI Audio
 ### Unkown：
