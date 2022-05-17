@@ -5,7 +5,7 @@
 |------------|-------------------------------|
 | CPU | i5 1035G1(ice lake) |
 | GPU | Intel UHD Garphics |
-| RAM | 16GB |
+| RAM | DDR4 3200MHz 16GB |
 | Audio | Realtek ALC256 |
 | WIFI／Bluetooth | ~~RTL8821CE~~ --> DW1820A |
 | BIOS Version | 303 |
