@@ -77,4 +77,4 @@ Security > Secure Boot > Secure Boot Control：`Disable`
 ### Unkown：
 - [ ] Apple Services
 ## Noteice
-- AppleALC not working from Windows reboot
+- Audio not working from Windows reboot
