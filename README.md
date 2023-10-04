@@ -27,30 +27,8 @@ Boot > Fast Boot：`Disable`
 
 Security > Secure Boot > Secure Boot Control：`Disable`
 
-- CFG Lock：`Disable,You need to use ControlMsrE2.efi or CFGLock.efi`
+- CFG Lock：`Disable,You need to use CFGLock.efi`
 
-                <key>Tools</key>
-                <array>
-                        <dict>
-                                <key>Arguments</key>
-                                <string>unlock</string>
-                                <key>Auxiliary</key>
-                                <true/>
-                                <key>Comment</key>
-                                <string></string>
-                                <key>Enabled</key>
-                                <true/>
-                                <key>Name</key>
-                                <string>ControlMsrE2</string>
-                                <key>Path</key>
-                                <string>ControlMsrE2.efi</string>
-                                <key>RealPath</key>
-                                <false/>
-                                <key>TextMode</key>
-                                <false/>
-                        </dict>
-                </array>
-  
 - After unlocking CFG Lock, the following entries in config can be turned off：
   
   `Kernel > Quirks > AppleCpuPmCfgLock：false`
